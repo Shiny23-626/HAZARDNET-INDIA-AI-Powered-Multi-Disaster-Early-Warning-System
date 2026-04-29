@@ -225,8 +225,6 @@ API_KEY = "your_key_here"
 | Team Members | Frontend, Data, Presentation |
 
 **College:** Agni College of Technology  
-**Event:** ITERYX '26 — St. Joseph's College of Engineering, Chennai
-
 ---
 
 ## 📄 License
